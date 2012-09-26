@@ -6,7 +6,8 @@ gem 'rails', '3.0.12'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3', '1.3.6', :group => :development
-gem 'haml'
+gem 'haml' ,'3.1.7', :group => :development
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
