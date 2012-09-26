@@ -7,7 +7,7 @@ gem 'rails', '3.0.12'
 
 gem 'sqlite3', '1.3.6', :group => :development
 gem 'haml' ,'3.1.7'
-
+gem 'pg'
 # Use unicorn as the web server
 # gem 'unicorn'
 
